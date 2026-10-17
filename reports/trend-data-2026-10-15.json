@@ -1,0 +1,173 @@
+[
+  {
+    "source": "Hacker News",
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "description": "Article URL:  https://www.liquid.ai/blog/lfm2-5-24b-a2b  \n Comments URL:  https://news.ycombinator.com/item?id=50097369  \n Points: 266 \n # Comments: 71",
+    "score": 2,
+    "matched_keywords": [
+      "agents",
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+    "url": "https://github.com/konieczkow/gridsnap",
+    "description": "Article URL:  https://github.com/konieczkow/gridsnap  \n Comments URL:  https://news.ycombinator.com/item?id=50103263  \n Points: 23 \n # Comments: 12",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "description": "Article URL:  https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/  \n Comments URL:  https://news.ycombinator.com/item?id=50104654  \n Points: 75 \n # Comments: 36",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Using AI to reverse engineer hardware",
+    "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "description": "Article URL:  https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/  \n Comments URL:  https://news.ycombinator.com/item?id=50104299  \n Points: 38 \n # Comments: 25",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "url": "https://github.com/fyzugx/DEsk",
+    "description": "Article URL:  https://github.com/fyzugx/DEsk  \n Comments URL:  https://news.ycombinator.com/item?id=50103338  \n Points: 181 \n # Comments: 66",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Americans' social activity has steeply declined in the past 30 years",
+    "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+    "description": "Article URL:  https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years  \n Comments URL:  https://news.ycombinator.com/item?id=50089921  \n Points: 523 \n # Comments: 499",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+    "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+    "description": "Article URL:  https://www.cppstories.com/2026/cpp26_contracts/  \n Comments URL:  https://news.ycombinator.com/item?id=50103164  \n Points: 59 \n # Comments: 55",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Celebrating 70 Years of Fortran",
+    "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "description": "Article URL:  https://fortran-lang.org/news/2026/09-15-Fortran-birthday/  \n Comments URL:  https://news.ycombinator.com/item?id=50104726  \n Points: 46 \n # Comments: 15",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Creating a Garmin \"MCP\"",
+    "url": "https://jackantico.io/garmin-mcp",
+    "description": "Article URL:  https://jackantico.io/garmin-mcp  \n Comments URL:  https://news.ycombinator.com/item?id=50081045  \n Points: 48 \n # Comments: 56",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+    "url": "https://snoutcover.com/one-year",
+    "description": "Article URL:  https://snoutcover.com/one-year  \n Comments URL:  https://news.ycombinator.com/item?id=50105344  \n Points: 28 \n # Comments: 5",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "I know why Mathematicians weep",
+    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "description": "Article URL:  https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep  \n Comments URL:  https://news.ycombinator.com/item?id=50103630  \n Points: 130 \n # Comments: 184",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+    "url": "https://libreboot.org/news/libreboot2610.html",
+    "description": "Article URL:  https://libreboot.org/news/libreboot2610.html  \n Comments URL:  https://news.ycombinator.com/item?id=50102923  \n Points: 143 \n # Comments: 68",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenCode 2.0",
+    "url": "https://anoma.ly/notes/opencode-2-0/",
+    "description": "Article URL:  https://anoma.ly/notes/opencode-2-0/  \n Comments URL:  https://news.ycombinator.com/item?id=50094994  \n Points: 782 \n # Comments: 332",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Prompt injection in HTTP headers: what 217M web responses show",
+    "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+    "description": "Article URL:  https://www.signalscorps.com/blog/prompt-injection-in-http-headers/  \n Comments URL:  https://news.ycombinator.com/item?id=50104310  \n Points: 31 \n # Comments: 8",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Unfenced – Land for sale that borders public land",
+    "url": "https://unfenced.land/",
+    "description": "Article URL:  https://unfenced.land/  \n Comments URL:  https://news.ycombinator.com/item?id=50102247  \n Points: 144 \n # Comments: 101",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+    "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+    "description": "Article URL:  https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/  \n Comments URL:  https://news.ycombinator.com/item?id=50105635  \n Points: 10 \n # Comments: 0",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+    "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+    "description": "Article URL:  https://www.newyorker.com/magazine/2026/10/19/the-first-social-network  \n Comments URL:  https://news.ycombinator.com/item?id=50079701  \n Points: 102 \n # Comments: 41",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Things to know when you get cancer",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "description": "Article URL:  https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/  \n Comments URL:  https://news.ycombinator.com/item?id=50093568  \n Points: 1757 \n # Comments: 416",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tiny Little Office",
+    "url": "https://tinylittleoffice.com/",
+    "description": "Article URL:  https://tinylittleoffice.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50096142  \n Points: 586 \n # Comments: 149",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "description": "Article URL:  https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/  \n Comments URL:  https://news.ycombinator.com/item?id=50101813  \n Points: 116 \n # Comments: 11",
+    "score": 0,
+    "matched_keywords": []
+  }
+]

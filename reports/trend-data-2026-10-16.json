@@ -1,0 +1,173 @@
+[
+  {
+    "source": "Hacker News",
+    "title": "How to make System 1 LLMs show System 2 competencies?",
+    "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+    "description": "Article URL:  https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113  \n Comments URL:  https://news.ycombinator.com/item?id=50118662  \n Points: 12 \n # Comments: 4",
+    "score": 3,
+    "matched_keywords": [
+      "llms"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "description": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse \n \n Comments URL:  https://news.ycombinator.com/item?id=50118688  \n Points: 56 \n # Comments: 26",
+    "score": 3,
+    "matched_keywords": [
+      "llms"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: rStation – A shared research lab for your AI agents",
+    "url": "https://rstation.ai/",
+    "description": "Article URL:  https://rstation.ai/  \n Comments URL:  https://news.ycombinator.com/item?id=50118876  \n Points: 11 \n # Comments: 3",
+    "score": 2,
+    "matched_keywords": [
+      "agents",
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "I Love Software Rendering",
+    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "description": "Article URL:  https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/  \n Comments URL:  https://news.ycombinator.com/item?id=50117746  \n Points: 182 \n # Comments: 129",
+    "score": 1,
+    "matched_keywords": [
+      "software"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Folders Programming Language",
+    "url": "https://danieltemkin.com/esolangs/folders",
+    "description": "Article URL:  https://danieltemkin.com/esolangs/folders  \n Comments URL:  https://news.ycombinator.com/item?id=50114342  \n Points: 169 \n # Comments: 30",
+    "score": 1,
+    "matched_keywords": [
+      "programming"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+    "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+    "description": "Article URL:  https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation  \n Comments URL:  https://news.ycombinator.com/item?id=50120010  \n Points: 7 \n # Comments: 0",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "description": "Article URL:  https://machinelearning.apple.com/research/mlx-distributed-inference  \n Comments URL:  https://news.ycombinator.com/item?id=50118320  \n Points: 76 \n # Comments: 32",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Bark: The Toll-Free BBS for 90s Teens",
+    "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+    "description": "Article URL:  https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens  \n Comments URL:  https://news.ycombinator.com/item?id=50117504  \n Points: 22 \n # Comments: 7",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+    "url": "https://calif.io/research/big-fish",
+    "description": "Article URL:  https://calif.io/research/big-fish  \n Comments URL:  https://news.ycombinator.com/item?id=50118977  \n Points: 61 \n # Comments: 8",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Hello Toronto – Waymo Is En Route",
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+    "description": "Article URL:  https://waymo.com/blog/2026/10/waymo-in-toronto/  \n Comments URL:  https://news.ycombinator.com/item?id=50118981  \n Points: 97 \n # Comments: 161",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "How to Formalize All of Mathematics",
+    "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+    "description": "Article URL:  https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/  \n Comments URL:  https://news.ycombinator.com/item?id=50118512  \n Points: 34 \n # Comments: 22",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "My old job feels distant now",
+    "url": "https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/",
+    "description": "Article URL:  https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/  \n Comments URL:  https://news.ycombinator.com/item?id=50118048  \n Points: 15 \n # Comments: 2",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+    "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+    "description": "Article URL:  https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/  \n Comments URL:  https://news.ycombinator.com/item?id=50118267  \n Points: 36 \n # Comments: 5",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "RPKI now protects 70% of internet routes",
+    "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+    "description": "Article URL:  https://ipinfo.io/blog/rpki-protects-70-internet-routes  \n Comments URL:  https://news.ycombinator.com/item?id=50112330  \n Points: 206 \n # Comments: 87",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Grimoire for Biology",
+    "url": "https://grimoire.bio",
+    "description": "Article URL:  https://grimoire.bio  \n Comments URL:  https://news.ycombinator.com/item?id=50118950  \n Points: 6 \n # Comments: 0",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+    "url": "https://onedeploy.co",
+    "description": "Article URL:  https://onedeploy.co  \n Comments URL:  https://news.ycombinator.com/item?id=50119752  \n Points: 6 \n # Comments: 1",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]",
+    "url": "https://www.youtube.com/watch?v=eqOfmtTJD1A",
+    "description": "Article URL:  https://www.youtube.com/watch?v=eqOfmtTJD1A  \n Comments URL:  https://news.ycombinator.com/item?id=50118624  \n Points: 47 \n # Comments: 25",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+    "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+    "description": "Article URL:  https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games  \n Comments URL:  https://news.ycombinator.com/item?id=50120101  \n Points: 11 \n # Comments: 1",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "What on Earth Is Dekton?",
+    "url": "https://www.worksinprogress.news/p/porcelain",
+    "description": "Article URL:  https://www.worksinprogress.news/p/porcelain  \n Comments URL:  https://news.ycombinator.com/item?id=50118828  \n Points: 36 \n # Comments: 2",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "What was a Token Ring network?",
+    "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+    "description": "Article URL:  https://dfarq.homeip.net/what-was-a-token-ring-network/  \n Comments URL:  https://news.ycombinator.com/item?id=50118318  \n Points: 21 \n # Comments: 9",
+    "score": 0,
+    "matched_keywords": []
+  }
+]

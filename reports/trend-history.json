@@ -1,0 +1,804 @@
+{
+  "2026-10-12": {
+    "generated_at": "Imported from existing 12 October report",
+    "stories_collected": 20,
+    "trend_counts": {
+      "webassembly": 1,
+      "llm": 1,
+      "ai": 3
+    },
+    "top_stories": [
+      {
+        "source": "Hacker News",
+        "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+        "url": "https://github.com/snuri00/ps2-web-recomp",
+        "description": "Article URL:  https://github.com/snuri00/ps2-web-recomp  \n Comments URL:  https://news.ycombinator.com/item?id=50052251  \n Points: 185 \n # Comments: 95",
+        "score": 3,
+        "matched_keywords": [
+          "github",
+          "webassembly"
+        ]
+      },
+      {
+        "source": "Hacker News",
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "description": "Article URL:  https://twitter.com/karpathy/status/2109361546505966046  \n Comments URL:  https://news.ycombinator.com/item?id=50047422  \n Points: 610 \n # Comments: 870",
+        "score": 3,
+        "matched_keywords": [
+          "llm"
+        ]
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+        "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+        "description": "Article URL:  https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules  \n Comments URL:  https://news.ycombinator.com/item?id=50055654  \n Points: 45 \n # Comments: 43",
+        "score": 2,
+        "matched_keywords": [
+          "ai",
+          "technology"
+        ]
+      },
+      {
+        "source": "Hacker News",
+        "title": "QGIS bans AI assisted contributions",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "description": "Article URL:  https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387  \n Comments URL:  https://news.ycombinator.com/item?id=50054751  \n Points: 316 \n # Comments: 341",
+        "score": 2,
+        "matched_keywords": [
+          "ai",
+          "github"
+        ]
+      },
+      {
+        "source": "Hacker News",
+        "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+        "url": "https://github.com/h0m3us3r/w1700k-sdr",
+        "description": "Article URL:  https://github.com/h0m3us3r/w1700k-sdr  \n Comments URL:  https://news.ycombinator.com/item?id=50055593  \n Points: 22 \n # Comments: 1",
+        "score": 2,
+        "matched_keywords": [
+          "github",
+          "software"
+        ]
+      }
+    ]
+  },
+  "2026-10-13": {
+    "generated_at": "2026-10-13 14:34 Pakistan Standard Time",
+    "stories_collected": 20,
+    "trend_counts": {
+      "browser": 2,
+      "ai": 7,
+      "llms": 1
+    },
+    "top_stories": [
+      {
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "score": 9,
+        "matched_keywords": [
+          "agent",
+          "agents",
+          "ai",
+          "browser",
+          "cloud",
+          "coding",
+          "infrastructure",
+          "software",
+          "technology"
+        ]
+      },
+      {
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "url": "https://github.com/prabanta-dev/janas",
+        "score": 4,
+        "matched_keywords": [
+          "github",
+          "llms"
+        ]
+      },
+      {
+        "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+        "url": "https://github.com/composo-ai/DishwasherBench",
+        "score": 2,
+        "matched_keywords": [
+          "ai",
+          "github"
+        ]
+      },
+      {
+        "title": "AI is a tool and using it well takes skill",
+        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "AI models can provably hide arbitrary capabilities",
+        "url": "https://arxiv.org/abs/2610.13928",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+        "url": "https://github.com/openai/codex/issues/48195",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "Document Review with Unsiloed and TypeSafe Jev",
+        "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Muse Wonder",
+        "url": "https://research.meta.ai/blog/muse-wonder",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+        "url": "https://github.com/andrewfader/blokkily",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+        "url": "https://brickbrag.com/",
+        "score": 1,
+        "matched_keywords": [
+          "browser"
+        ]
+      },
+      {
+        "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+        "url": "https://github.com/bherbruck/solidcraft",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+        "url": "https://www.argmin.net/p/faster-fourier-transforms",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Flydubai FZ1073 saga: Iran theorizes it was an Israeli false-flag operation",
+        "url": "https://www.presstv.co.uk/Detail/2026/10/03/777527/flydubai-fz1073-contradictions-missing-evidence-cinematic-claims-story-doesnt-end-up",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Hittite royal archive found in Turkey",
+        "url": "https://www.thehistoryblog.com/archives/77107",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Making big downloads resumable in Firefox",
+        "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Phreak.ing – Internet Phone Switch",
+        "url": "https://phreak.ing/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Teach My Little Sister How to Drive",
+        "url": "https://steamcommunity.com/app/3948460/allnews/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Who is vfmaddrnd231pd?",
+        "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Writing a Demoscene Intro for the ZX Spectrum",
+        "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+        "score": 0,
+        "matched_keywords": []
+      }
+    ]
+  },
+  "2026-10-14": {
+    "generated_at": "2026-10-14 13:47 Pakistan Standard Time",
+    "stories_collected": 20,
+    "trend_counts": {
+      "ai": 1,
+      "browser": 1
+    },
+    "top_stories": [
+      {
+        "title": "11 year old unsoundness bugs found in Rust borrow checker",
+        "url": "https://github.com/rust-lang/rust/issues/164250",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "AlphaNIST",
+        "url": "https://alpha-nist.github.io/",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+        "url": "https://github.com/android/ndk/issues/2260",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "Gemini 4 Argon",
+        "url": "https://deepmind.google/models/gemini/",
+        "score": 1,
+        "matched_keywords": [
+          "robotics"
+        ]
+      },
+      {
+        "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+        "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Recreational Programming",
+        "url": "https://www.cphiri.dev/presentations/recreational-programming",
+        "score": 1,
+        "matched_keywords": [
+          "programming"
+        ]
+      },
+      {
+        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "url": "https://guitoro.com/",
+        "score": 1,
+        "matched_keywords": [
+          "browser"
+        ]
+      },
+      {
+        "title": "Apple HomeView",
+        "url": "https://www.apple.com/apple-homeview/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+        "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Do Frameworks Matter Anymore?",
+        "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Felix Rieseberg Homepage",
+        "url": "https://felixrieseberg.com/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Grace Hopper Celebration Cancelled",
+        "url": "https://anitab.org/press-release",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "OpenAI engineer arrested in bugging of executive conference room",
+        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Redesigning source control at Anthropic",
+        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Show HN: How random are you?",
+        "url": "https://lab.specr.net/rigged-draw/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Show HN: XY Music Notation",
+        "url": "https://music.xy.dev/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "The People's Bookshelf (Riga, Latvia)",
+        "url": "https://tautasgramatuplaukts.lv/en/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "The United Kingdom generates less electricity per person than in the 1970s",
+        "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Thunderbird for iOS",
+        "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Why Sweden is abandoning its cashless society",
+        "url": "https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html",
+        "score": 0,
+        "matched_keywords": []
+      }
+    ]
+  },
+  "2026-10-15": {
+    "generated_at": "2026-10-15 21:14 Pakistan Standard Time",
+    "stories_collected": 20,
+    "trend_counts": {
+      "ai": 3
+    },
+    "top_stories": [
+      {
+        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+        "score": 2,
+        "matched_keywords": [
+          "agents",
+          "ai"
+        ]
+      },
+      {
+        "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+        "url": "https://github.com/konieczkow/gridsnap",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Using AI to reverse engineer hardware",
+        "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Wayland desktop for Linux with skeuomorphic design",
+        "url": "https://github.com/fyzugx/DEsk",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "Americans' social activity has steeply declined in the past 30 years",
+        "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+        "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Celebrating 70 Years of Fortran",
+        "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Creating a Garmin \"MCP\"",
+        "url": "https://jackantico.io/garmin-mcp",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+        "url": "https://snoutcover.com/one-year",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "I know why Mathematicians weep",
+        "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+        "url": "https://libreboot.org/news/libreboot2610.html",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "OpenCode 2.0",
+        "url": "https://anoma.ly/notes/opencode-2-0/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Prompt injection in HTTP headers: what 217M web responses show",
+        "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Show HN: Unfenced – Land for sale that borders public land",
+        "url": "https://unfenced.land/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+        "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+        "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Things to know when you get cancer",
+        "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Tiny Little Office",
+        "url": "https://tinylittleoffice.com/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+        "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+        "score": 0,
+        "matched_keywords": []
+      }
+    ]
+  },
+  "2026-10-16": {
+    "generated_at": "2026-10-16 21:32 Pakistan Standard Time",
+    "stories_collected": 20,
+    "trend_counts": {
+      "llms": 2,
+      "ai": 1
+    },
+    "top_stories": [
+      {
+        "title": "How to make System 1 LLMs show System 2 competencies?",
+        "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+        "score": 3,
+        "matched_keywords": [
+          "llms"
+        ]
+      },
+      {
+        "title": "Show HN: Gemini 4 Argon plays StarCraft",
+        "url": "https://starskirmish.com/bench/v0-2/",
+        "score": 3,
+        "matched_keywords": [
+          "llms"
+        ]
+      },
+      {
+        "title": "Show HN: rStation – A shared research lab for your AI agents",
+        "url": "https://rstation.ai/",
+        "score": 2,
+        "matched_keywords": [
+          "agents",
+          "ai"
+        ]
+      },
+      {
+        "title": "I Love Software Rendering",
+        "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+        "score": 1,
+        "matched_keywords": [
+          "software"
+        ]
+      },
+      {
+        "title": "The Folders Programming Language",
+        "url": "https://danieltemkin.com/esolangs/folders",
+        "score": 1,
+        "matched_keywords": [
+          "programming"
+        ]
+      },
+      {
+        "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+        "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Bark: The Toll-Free BBS for 90s Teens",
+        "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+        "url": "https://calif.io/research/big-fish",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Hello Toronto – Waymo Is En Route",
+        "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "How to Formalize All of Mathematics",
+        "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "My old job feels distant now",
+        "url": "https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+        "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "RPKI now protects 70% of internet routes",
+        "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Show HN: Grimoire for Biology",
+        "url": "https://grimoire.bio",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+        "url": "https://onedeploy.co",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]",
+        "url": "https://www.youtube.com/watch?v=eqOfmtTJD1A",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+        "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "What on Earth Is Dekton?",
+        "url": "https://www.worksinprogress.news/p/porcelain",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "What was a Token Ring network?",
+        "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+        "score": 0,
+        "matched_keywords": []
+      }
+    ]
+  },
+  "2026-10-17": {
+    "generated_at": "2026-10-17 00:01 Pakistan Standard Time",
+    "stories_collected": 20,
+    "trend_counts": {
+      "llms": 2,
+      "postgres": 1,
+      "ai": 3
+    },
+    "top_stories": [
+      {
+        "title": "How to make System 1 LLMs show System 2 competencies?",
+        "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+        "score": 3,
+        "matched_keywords": [
+          "llms"
+        ]
+      },
+      {
+        "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+        "score": 3,
+        "matched_keywords": [
+          "ai",
+          "postgres"
+        ]
+      },
+      {
+        "title": "Show HN: Gemini 4 Argon plays StarCraft",
+        "url": "https://starskirmish.com/bench/v0-2/",
+        "score": 3,
+        "matched_keywords": [
+          "llms"
+        ]
+      },
+      {
+        "title": "Show HN: rStation – A shared research lab for your AI agents",
+        "url": "https://rstation.ai/",
+        "score": 2,
+        "matched_keywords": [
+          "agents",
+          "ai"
+        ]
+      },
+      {
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "I Love Software Rendering",
+        "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+        "score": 1,
+        "matched_keywords": [
+          "software"
+        ]
+      },
+      {
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+        "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Anthropic assigned highest junk credit rating in June",
+        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+        "url": "https://calif.io/research/big-fish",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Designing more efficient quantum circuits with Claude",
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+        "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Inside Polymarket's paid quote-retweet esports program",
+        "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "JPEG XL vs. AVIF for web use-cases",
+        "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Piramidal (YC W24) Is Hiring",
+        "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+        "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+        "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "What on Earth Is Dekton?",
+        "url": "https://www.worksinprogress.news/p/porcelain",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "What was a Token Ring network?",
+        "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+        "score": 0,
+        "matched_keywords": []
+      }
+    ]
+  }
+}

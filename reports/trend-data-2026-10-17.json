@@ -1,0 +1,178 @@
+[
+  {
+    "source": "Hacker News",
+    "title": "How to make System 1 LLMs show System 2 competencies?",
+    "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+    "description": "Article URL:  https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113  \n Comments URL:  https://news.ycombinator.com/item?id=50118662  \n Points: 34 \n # Comments: 18",
+    "score": 3,
+    "matched_keywords": [
+      "llms"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+    "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+    "description": "Article URL:  https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471  \n Comments URL:  https://news.ycombinator.com/item?id=50119991  \n Points: 119 \n # Comments: 37",
+    "score": 3,
+    "matched_keywords": [
+      "ai",
+      "postgres"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "description": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse \n \n Comments URL:  https://news.ycombinator.com/item?id=50118688  \n Points: 124 \n # Comments: 64",
+    "score": 3,
+    "matched_keywords": [
+      "llms"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: rStation – A shared research lab for your AI agents",
+    "url": "https://rstation.ai/",
+    "description": "Article URL:  https://rstation.ai/  \n Comments URL:  https://news.ycombinator.com/item?id=50118876  \n Points: 36 \n # Comments: 18",
+    "score": 2,
+    "matched_keywords": [
+      "agents",
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "description": "Article URL:  https://www.mercor.com/research/labor-index/benchmark-map/  \n Comments URL:  https://news.ycombinator.com/item?id=50121179  \n Points: 166 \n # Comments: 134",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "I Love Software Rendering",
+    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "description": "Article URL:  https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/  \n Comments URL:  https://news.ycombinator.com/item?id=50117746  \n Points: 235 \n # Comments: 162",
+    "score": 1,
+    "matched_keywords": [
+      "software"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "url": "https://github.com/cobanov/PS5LM",
+    "description": "Article URL:  https://github.com/cobanov/PS5LM  \n Comments URL:  https://news.ycombinator.com/item?id=50122431  \n Points: 3 \n # Comments: 0",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+    "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+    "description": "Article URL:  https://adepts.of0x.cc/eufy-homestation2-firmware/  \n Comments URL:  https://news.ycombinator.com/item?id=50119751  \n Points: 13 \n # Comments: 1",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "description": "Article URL:  https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d  \n Comments URL:  https://news.ycombinator.com/item?id=50122112  \n Points: 25 \n # Comments: 4",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "description": "Article URL:  https://machinelearning.apple.com/research/mlx-distributed-inference  \n Comments URL:  https://news.ycombinator.com/item?id=50118320  \n Points: 187 \n # Comments: 89",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+    "url": "https://calif.io/research/big-fish",
+    "description": "Article URL:  https://calif.io/research/big-fish  \n Comments URL:  https://news.ycombinator.com/item?id=50118977  \n Points: 123 \n # Comments: 35",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Designing more efficient quantum circuits with Claude",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "description": "Article URL:  https://www.anthropic.com/research/designing-efficient-quantum-circuits  \n Comments URL:  https://news.ycombinator.com/item?id=50121939  \n Points: 16 \n # Comments: 3",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+    "description": "Article URL:  https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear  \n Comments URL:  https://news.ycombinator.com/item?id=50122034  \n Points: 35 \n # Comments: 12",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Inside Polymarket's paid quote-retweet esports program",
+    "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+    "description": "Article URL:  https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation  \n Comments URL:  https://news.ycombinator.com/item?id=50120010  \n Points: 73 \n # Comments: 53",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "JPEG XL vs. AVIF for web use-cases",
+    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "description": "Article URL:  https://jakearchibald.com/2026/jpeg-xl-vs-avif/  \n Comments URL:  https://news.ycombinator.com/item?id=50120224  \n Points: 97 \n # Comments: 72",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Piramidal (YC W24) Is Hiring",
+    "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+    "description": "Article URL:  https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009  \n Comments URL:  https://news.ycombinator.com/item?id=50121188  \n Points: 0 \n # Comments: 0",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+    "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+    "description": "Article URL:  https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/  \n Comments URL:  https://news.ycombinator.com/item?id=50118267  \n Points: 66 \n # Comments: 29",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+    "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+    "description": "Article URL:  https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games  \n Comments URL:  https://news.ycombinator.com/item?id=50120101  \n Points: 127 \n # Comments: 73",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "What on Earth Is Dekton?",
+    "url": "https://www.worksinprogress.news/p/porcelain",
+    "description": "Article URL:  https://www.worksinprogress.news/p/porcelain  \n Comments URL:  https://news.ycombinator.com/item?id=50118828  \n Points: 91 \n # Comments: 29",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "What was a Token Ring network?",
+    "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+    "description": "Article URL:  https://dfarq.homeip.net/what-was-a-token-ring-network/  \n Comments URL:  https://news.ycombinator.com/item?id=50118318  \n Points: 46 \n # Comments: 39",
+    "score": 0,
+    "matched_keywords": []
+  }
+]

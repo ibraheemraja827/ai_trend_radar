@@ -1,0 +1,167 @@
+{
+  "2026-10-13": {
+    "generated_at": "2026-10-13 14:34 Pakistan Standard Time",
+    "stories_collected": 20,
+    "trend_counts": {
+      "browser": 2,
+      "ai": 7,
+      "llms": 1
+    },
+    "top_stories": [
+      {
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "score": 9,
+        "matched_keywords": [
+          "agent",
+          "agents",
+          "ai",
+          "browser",
+          "cloud",
+          "coding",
+          "infrastructure",
+          "software",
+          "technology"
+        ]
+      },
+      {
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "url": "https://github.com/prabanta-dev/janas",
+        "score": 4,
+        "matched_keywords": [
+          "github",
+          "llms"
+        ]
+      },
+      {
+        "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+        "url": "https://github.com/composo-ai/DishwasherBench",
+        "score": 2,
+        "matched_keywords": [
+          "ai",
+          "github"
+        ]
+      },
+      {
+        "title": "AI is a tool and using it well takes skill",
+        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "AI models can provably hide arbitrary capabilities",
+        "url": "https://arxiv.org/abs/2610.13928",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+        "url": "https://github.com/openai/codex/issues/48195",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "Document Review with Unsiloed and TypeSafe Jev",
+        "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Muse Wonder",
+        "url": "https://research.meta.ai/blog/muse-wonder",
+        "score": 1,
+        "matched_keywords": [
+          "ai"
+        ]
+      },
+      {
+        "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+        "url": "https://github.com/andrewfader/blokkily",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+        "url": "https://brickbrag.com/",
+        "score": 1,
+        "matched_keywords": [
+          "browser"
+        ]
+      },
+      {
+        "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+        "url": "https://github.com/bherbruck/solidcraft",
+        "score": 1,
+        "matched_keywords": [
+          "github"
+        ]
+      },
+      {
+        "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+        "url": "https://www.argmin.net/p/faster-fourier-transforms",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Flydubai FZ1073 saga: Iran theorizes it was an Israeli false-flag operation",
+        "url": "https://www.presstv.co.uk/Detail/2026/10/03/777527/flydubai-fz1073-contradictions-missing-evidence-cinematic-claims-story-doesnt-end-up",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Hittite royal archive found in Turkey",
+        "url": "https://www.thehistoryblog.com/archives/77107",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Making big downloads resumable in Firefox",
+        "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Phreak.ing – Internet Phone Switch",
+        "url": "https://phreak.ing/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Teach My Little Sister How to Drive",
+        "url": "https://steamcommunity.com/app/3948460/allnews/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Who is vfmaddrnd231pd?",
+        "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+        "score": 0,
+        "matched_keywords": []
+      },
+      {
+        "title": "Writing a Demoscene Intro for the ZX Spectrum",
+        "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+        "score": 0,
+        "matched_keywords": []
+      }
+    ]
+  }
+}

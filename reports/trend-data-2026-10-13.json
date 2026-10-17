@@ -1,0 +1,196 @@
+[
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "url": "https://news.ycombinator.com/item?id=50059096",
+    "description": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here:  https://youtu.be/DK5ISR2tbNo  We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses. One of the goals I had at the time was to offer a free plan to users, so as to gain more market share. But it was too cost prohibitive to do it right away. Especially since we were bootstrapped and servers were running on my savings. Today we’re actually able to offer the free plan thanks to the optimizations we’ve made since. Over 90% of the new signups we have are just free plan users and they host their personal Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure cost for the free sandboxes averages around $0.05 to $0.10 per user per month. Here are some techniques that have worked for lowering cost: * When you look at agent harnesses, they have certain patterns in the way they consume CPU and RAM. They need CPU in bursts when they’re initializing or performing certain tasks, but beyond that, they’re often not peaking. They need more RAM for things like browser and computer-use tasks. Once the task is done, usage often comes back down. This is a key insight in lowering cost, so by efficiently managing the CPU/RAM utilization we could lower the cost. * Secondly, you have to skip the hyperscalers when renting the Hosts. I worked at Amazon before and they have 80-90% margins on VMs. So it was an obvious choice once I looked at the prices to go one layer down to vendors like Hetzner and OVH. This alone was probably one of the biggest cost levers in reducing the cost. * Thirdly, you also want to pick a technology stack that lets you efficiently cache and share resources across the host. We use gVisor for better utilization and fast boot times. It lets us use available host memory across sandboxes without reserving a full VM’s memory for each one. There are tradeoffs: our gVisor sandboxes don’t support workloads like Docker-in-Docker or Android emulators. * And finally the size and shape of the hosts you buy also makes a big difference. RAM is typically the bottleneck when it comes to cost and not the CPU. This is specifically true for agent harness workloads, so when buying servers, we optimize for packing more RAM into a given host. We also host full VM sandboxes for workloads that need them, including running Docker at a slightly higher price, but they are still pretty low cost given the rest of the techniques. Overall, my learning has been that just by focusing on a niche of sandbox usecases, and optimizing for it you can give a much better cost/performance tradeoff. I was previously a Senior Software Engineer at Amazon and an Engineering Manager at Quantcast. I built Amazon's internal AI chatbot, Diya, and their internal coding harness, Ziya. If you’re someone who’s looking to run agents on sandbox and are exploring a sandbox vendor, come check us out. We’re particularly looking for developers building messaging agents to try their workloads and challenge the limits and economics of our platform. Thanks!  https://agent37.com  \n \n Comments URL:  https://news.ycombinator.com/item?id=50059096  \n Points: 132 \n # Comments: 97",
+    "score": 9,
+    "matched_keywords": [
+      "agent",
+      "agents",
+      "ai",
+      "browser",
+      "cloud",
+      "coding",
+      "infrastructure",
+      "software",
+      "technology"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "url": "https://github.com/prabanta-dev/janas",
+    "description": "Article URL:  https://github.com/prabanta-dev/janas  \n Comments URL:  https://news.ycombinator.com/item?id=50063717  \n Points: 135 \n # Comments: 43",
+    "score": 4,
+    "matched_keywords": [
+      "github",
+      "llms"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+    "url": "https://github.com/composo-ai/DishwasherBench",
+    "description": "Article URL:  https://github.com/composo-ai/DishwasherBench  \n Comments URL:  https://news.ycombinator.com/item?id=50068437  \n Points: 17 \n # Comments: 6",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "description": "Article URL:  https://yyhh.org/blog/2026/10/ai-is-a-tool/  \n Comments URL:  https://news.ycombinator.com/item?id=50063427  \n Points: 407 \n # Comments: 327",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI models can provably hide arbitrary capabilities",
+    "url": "https://arxiv.org/abs/2610.13928",
+    "description": "Article URL:  https://arxiv.org/abs/2610.13928  \n Comments URL:  https://news.ycombinator.com/item?id=50065692  \n Points: 205 \n # Comments: 104",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "description": "Article URL:  https://github.com/openai/codex/issues/48195  \n Comments URL:  https://news.ycombinator.com/item?id=50060694  \n Points: 559 \n # Comments: 273",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Document Review with Unsiloed and TypeSafe Jev",
+    "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+    "description": "Article URL:  https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev  \n Comments URL:  https://news.ycombinator.com/item?id=50068443  \n Points: 5 \n # Comments: 1",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "description": "Article URL:  https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html  \n Comments URL:  https://news.ycombinator.com/item?id=50063365  \n Points: 198 \n # Comments: 105",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Muse Wonder",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "description": "Article URL:  https://research.meta.ai/blog/muse-wonder  \n Comments URL:  https://news.ycombinator.com/item?id=50059115  \n Points: 628 \n # Comments: 334",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+    "url": "https://github.com/andrewfader/blokkily",
+    "description": "Article URL:  https://github.com/andrewfader/blokkily  \n Comments URL:  https://news.ycombinator.com/item?id=50064438  \n Points: 56 \n # Comments: 27",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+    "url": "https://brickbrag.com/",
+    "description": "Article URL:  https://brickbrag.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50063042  \n Points: 65 \n # Comments: 38",
+    "score": 1,
+    "matched_keywords": [
+      "browser"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+    "url": "https://github.com/bherbruck/solidcraft",
+    "description": "Article URL:  https://github.com/bherbruck/solidcraft  \n Comments URL:  https://news.ycombinator.com/item?id=50064840  \n Points: 57 \n # Comments: 9",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+    "url": "https://www.argmin.net/p/faster-fourier-transforms",
+    "description": "Article URL:  https://www.argmin.net/p/faster-fourier-transforms  \n Comments URL:  https://news.ycombinator.com/item?id=50065932  \n Points: 129 \n # Comments: 95",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Flydubai FZ1073 saga: Iran theorizes it was an Israeli false-flag operation",
+    "url": "https://www.presstv.co.uk/Detail/2026/10/03/777527/flydubai-fz1073-contradictions-missing-evidence-cinematic-claims-story-doesnt-end-up",
+    "description": "Article URL:  https://www.presstv.co.uk/Detail/2026/10/03/777527/flydubai-fz1073-contradictions-missing-evidence-cinematic-claims-story-doesnt-end-up  \n Comments URL:  https://news.ycombinator.com/item?id=50068223  \n Points: 5 \n # Comments: 1",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Hittite royal archive found in Turkey",
+    "url": "https://www.thehistoryblog.com/archives/77107",
+    "description": "Article URL:  https://www.thehistoryblog.com/archives/77107  \n Comments URL:  https://news.ycombinator.com/item?id=50067414  \n Points: 3 \n # Comments: 0",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Making big downloads resumable in Firefox",
+    "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+    "description": "Article URL:  https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html  \n Comments URL:  https://news.ycombinator.com/item?id=50061791  \n Points: 200 \n # Comments: 85",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Phreak.ing – Internet Phone Switch",
+    "url": "https://phreak.ing/",
+    "description": "Article URL:  https://phreak.ing/  \n Comments URL:  https://news.ycombinator.com/item?id=50063417  \n Points: 128 \n # Comments: 33",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Teach My Little Sister How to Drive",
+    "url": "https://steamcommunity.com/app/3948460/allnews/",
+    "description": "Article URL:  https://steamcommunity.com/app/3948460/allnews/  \n Comments URL:  https://news.ycombinator.com/item?id=50068666  \n Points: 5 \n # Comments: 0",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Who is vfmaddrnd231pd?",
+    "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+    "description": "Article URL:  https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/  \n Comments URL:  https://news.ycombinator.com/item?id=50063138  \n Points: 197 \n # Comments: 20",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Writing a Demoscene Intro for the ZX Spectrum",
+    "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+    "description": "Article URL:  https://www.markround.com/blog/2026/zx-spectrum-intro  \n Comments URL:  https://news.ycombinator.com/item?id=50061859  \n Points: 124 \n # Comments: 24",
+    "score": 0,
+    "matched_keywords": []
+  }
+]

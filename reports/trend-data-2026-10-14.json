@@ -1,0 +1,176 @@
+[
+  {
+    "source": "Hacker News",
+    "title": "11 year old unsoundness bugs found in Rust borrow checker",
+    "url": "https://github.com/rust-lang/rust/issues/164250",
+    "description": "Article URL:  https://github.com/rust-lang/rust/issues/164250  \n Comments URL:  https://news.ycombinator.com/item?id=50069499  \n Points: 719 \n # Comments: 401",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "AlphaNIST",
+    "url": "https://alpha-nist.github.io/",
+    "description": "Article URL:  https://alpha-nist.github.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50079464  \n Points: 71 \n # Comments: 23",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+    "url": "https://github.com/android/ndk/issues/2260",
+    "description": "Article URL:  https://github.com/android/ndk/issues/2260  \n Comments URL:  https://news.ycombinator.com/item?id=50083130  \n Points: 208 \n # Comments: 85",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Gemini 4 Argon",
+    "url": "https://deepmind.google/models/gemini/",
+    "description": "See also:  Gemini 4 Argon for Robotics  -  https://news.ycombinator.com/item?id=50074869  \n \n Comments URL:  https://news.ycombinator.com/item?id=50073879  \n Points: 1259 \n # Comments: 886",
+    "score": 1,
+    "matched_keywords": [
+      "robotics"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+    "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+    "description": "Article URL:  https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0  \n Comments URL:  https://news.ycombinator.com/item?id=50078686  \n Points: 0 \n # Comments: 0",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Recreational Programming",
+    "url": "https://www.cphiri.dev/presentations/recreational-programming",
+    "description": "Article URL:  https://www.cphiri.dev/presentations/recreational-programming  \n Comments URL:  https://news.ycombinator.com/item?id=50079865  \n Points: 170 \n # Comments: 73",
+    "score": 1,
+    "matched_keywords": [
+      "programming"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "url": "https://guitoro.com/",
+    "description": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download. 1 minute video demo:  https://youtu.be/DtcluMLdSgs  I would love feedback on how the strumming feels and sounds. \n \n Comments URL:  https://news.ycombinator.com/item?id=50077020  \n Points: 418 \n # Comments: 107",
+    "score": 1,
+    "matched_keywords": [
+      "browser"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Apple HomeView",
+    "url": "https://www.apple.com/apple-homeview/",
+    "description": "Article URL:  https://www.apple.com/apple-homeview/  \n Comments URL:  https://news.ycombinator.com/item?id=50071017  \n Points: 723 \n # Comments: 848",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "description": "https://www.apple.com/safari/switch/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50072286  \n Points: 268 \n # Comments: 449",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Do Frameworks Matter Anymore?",
+    "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+    "description": "Article URL:  https://brookslybrand.com/posts/do-frameworks-matter-anymore/  \n Comments URL:  https://news.ycombinator.com/item?id=50081092  \n Points: 47 \n # Comments: 29",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Felix Rieseberg Homepage",
+    "url": "https://felixrieseberg.com/",
+    "description": "Article URL:  https://felixrieseberg.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50082470  \n Points: 174 \n # Comments: 64",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Grace Hopper Celebration Cancelled",
+    "url": "https://anitab.org/press-release",
+    "description": "Article URL:  https://anitab.org/press-release  \n Comments URL:  https://news.ycombinator.com/item?id=50080007  \n Points: 168 \n # Comments: 76",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "description": "https://x.com/OpenAINewsroom/status/2110095403198849132  \n \n Comments URL:  https://news.ycombinator.com/item?id=50078141  \n Points: 559 \n # Comments: 463",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "description": "Article URL:  https://www.anthropic.com/engineering/redesigning-source-control  \n Comments URL:  https://news.ycombinator.com/item?id=50073633  \n Points: 748 \n # Comments: 741",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: How random are you?",
+    "url": "https://lab.specr.net/rigged-draw/",
+    "description": "Article URL:  https://lab.specr.net/rigged-draw/  \n Comments URL:  https://news.ycombinator.com/item?id=50074909  \n Points: 140 \n # Comments: 72",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: XY Music Notation",
+    "url": "https://music.xy.dev/",
+    "description": "I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it. The idea is to represent each note in 12-TET as a number, so  N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y). I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note. I've found it pretty helpful for learning how to play my own instrument, so wanted to share in case anyone else was interested. \n \n Comments URL:  https://news.ycombinator.com/item?id=50075665  \n Points: 69 \n # Comments: 55",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "The People's Bookshelf (Riga, Latvia)",
+    "url": "https://tautasgramatuplaukts.lv/en/",
+    "description": "Article URL:  https://tautasgramatuplaukts.lv/en/  \n Comments URL:  https://news.ycombinator.com/item?id=50068447  \n Points: 6 \n # Comments: 0",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "The United Kingdom generates less electricity per person than in the 1970s",
+    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+    "description": "Article URL:  https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak  \n Comments URL:  https://news.ycombinator.com/item?id=50072994  \n Points: 298 \n # Comments: 425",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Thunderbird for iOS",
+    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "description": "Article URL:  https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/  \n Comments URL:  https://news.ycombinator.com/item?id=50072913  \n Points: 431 \n # Comments: 185",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Why Sweden is abandoning its cashless society",
+    "url": "https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html",
+    "description": "Article URL:  https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html  \n Comments URL:  https://news.ycombinator.com/item?id=50083766  \n Points: 31 \n # Comments: 21",
+    "score": 0,
+    "matched_keywords": []
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "source": "Hacker News",
+    "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+    "url": "https://github.com/snuri00/ps2-web-recomp",
+    "description": "Article URL:  https://github.com/snuri00/ps2-web-recomp  \n Comments URL:  https://news.ycombinator.com/item?id=50052251  \n Points: 185 \n # Comments: 95",
+    "score": 3,
+    "matched_keywords": [
+      "github",
+      "webassembly"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "description": "Article URL:  https://twitter.com/karpathy/status/2109361546505966046  \n Comments URL:  https://news.ycombinator.com/item?id=50047422  \n Points: 610 \n # Comments: 870",
+    "score": 3,
+    "matched_keywords": [
+      "llm"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+    "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+    "description": "Article URL:  https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules  \n Comments URL:  https://news.ycombinator.com/item?id=50055654  \n Points: 45 \n # Comments: 43",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "QGIS bans AI assisted contributions",
+    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+    "description": "Article URL:  https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387  \n Comments URL:  https://news.ycombinator.com/item?id=50054751  \n Points: 316 \n # Comments: 341",
+    "score": 2,
+    "matched_keywords": [
+      "ai",
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+    "url": "https://github.com/h0m3us3r/w1700k-sdr",
+    "description": "Article URL:  https://github.com/h0m3us3r/w1700k-sdr  \n Comments URL:  https://news.ycombinator.com/item?id=50055593  \n Points: 22 \n # Comments: 1",
+    "score": 2,
+    "matched_keywords": [
+      "github",
+      "software"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "Doory – Open-Source Canva",
+    "url": "https://github.com/shaongitbd/doory",
+    "description": "Article URL:  https://github.com/shaongitbd/doory  \n Comments URL:  https://news.ycombinator.com/item?id=50049872  \n Points: 181 \n # Comments: 68",
+    "score": 1,
+    "matched_keywords": [
+      "github"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+    "url": "https://z.ai/blog/glm-legal",
+    "description": "Article URL:  https://z.ai/blog/glm-legal  \n Comments URL:  https://news.ycombinator.com/item?id=50058507  \n Points: 79 \n # Comments: 38",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Modern Web App in C",
+    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+    "description": "Article URL:  https://prophitt.me/writing/a-modern-web-app-in-c  \n Comments URL:  https://news.ycombinator.com/item?id=50058528  \n Points: 15 \n # Comments: 1",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "An Unmade Film Shaped Hayao Miyazaki",
+    "url": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
+    "description": "Article URL:  https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki  \n Comments URL:  https://news.ycombinator.com/item?id=50057030  \n Points: 35 \n # Comments: 3",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Deep dive into Azure Maia 300 architecture",
+    "url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+    "description": "Article URL:  https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/  \n Comments URL:  https://news.ycombinator.com/item?id=50057185  \n Points: 14 \n # Comments: 2",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+    "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+    "description": "Article URL:  https://www.bbc.com/news/articles/c64g1l5389kvo  \n Comments URL:  https://news.ycombinator.com/item?id=50054207  \n Points: 539 \n # Comments: 181",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Fingerprints are the new cookies",
+    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+    "description": "Article URL:  https://royfish.dev/fingerprints-are-the-new-cookies  \n Comments URL:  https://news.ycombinator.com/item?id=50048642  \n Points: 599 \n # Comments: 291",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+    "url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
+    "description": "Article URL:  https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html  \n Comments URL:  https://news.ycombinator.com/item?id=50057956  \n Points: 77 \n # Comments: 56",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Fridges in French supermarkets hit by cyber attack",
+    "url": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
+    "description": "Article URL:  https://www.bbc.com/news/articles/crq5nzxv9q4yo  \n Comments URL:  https://news.ycombinator.com/item?id=50057551  \n Points: 22 \n # Comments: 8",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Hackers heat French supermarket fridges, sparking fires and food losses",
+    "url": "https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/",
+    "description": "Article URL:  https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/  \n Comments URL:  https://news.ycombinator.com/item?id=50057384  \n Points: 14 \n # Comments: 2",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+    "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+    "description": "Article URL:  https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce  \n Comments URL:  https://news.ycombinator.com/item?id=50052638  \n Points: 59 \n # Comments: 30",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Incident with Actions, Pull Requests and Issues",
+    "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+    "description": "Article URL:  https://www.githubstatus.com/incidents/93njd414rpbx  \n Comments URL:  https://news.ycombinator.com/item?id=50055375  \n Points: 115 \n # Comments: 101",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Living in the Weimar Era of Ruby",
+    "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+    "description": "Article URL:  https://blog.julik.nl/2026/10/the-weimar-of-ruby  \n Comments URL:  https://news.ycombinator.com/item?id=50054474  \n Points: 46 \n # Comments: 11",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Passkeys are a trap",
+    "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+    "description": "Article URL:  https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them  \n Comments URL:  https://news.ycombinator.com/item?id=50048312  \n Points: 915 \n # Comments: 479",
+    "score": 0,
+    "matched_keywords": []
+  },
+  {
+    "source": "Hacker News",
+    "title": "Type-safe HTML templating in Zig",
+    "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+    "description": "Article URL:  https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html  \n Comments URL:  https://news.ycombinator.com/item?id=50051573  \n Points: 196 \n # Comments: 74",
+    "score": 0,
+    "matched_keywords": []
+  }
+]
